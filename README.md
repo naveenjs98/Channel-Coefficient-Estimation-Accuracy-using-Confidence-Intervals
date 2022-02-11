@@ -1,2 +1,2 @@
-# Channel-Estimation-Accuracy-using-Confidence-Intervals
+# Channel Coefficient Estimation Accuracy using Confidence Intervals
 The main objective of this mini project is to quantify the accuracy of channel estimation for a wired, digital communications system using confidence intervals (CI). On the receiver end, for each ith symbol period, the real-valued sample can be modelled as: 𝑋𝑖=𝐶+𝑁𝑖 where C is a real-valued, deterministic channel coefficient to be estimated and Ni is a sequence of i.i.d Gaussian noise r.v’s with zero mean and variance 𝜎2𝑁. While performing channel estimation, it is assumed that there are n data points received at the receiver’s end and the channel coefficient estimate is needed for demodulation.
